@@ -1,0 +1,29 @@
+{
+  "SIBLINGS": [
+    "Ancestry_BOGUSLAWAN",
+    "Ancestry_ALICJA",
+    "Ancestry_TERESA"
+  ],
+  "COUSINS": [],
+  "PHASED_FILES": [],
+  "CHROMOSOMES": [
+    21
+  ],
+  "SHOW_NO_MATCHES": false,
+  "CHROM_TRUE_SIZE": false,
+  "LINEAR_CHROMOSOME": false,
+  "RESOLUTION": 1,
+  "AUTO_REC_PNTS": false,
+  "ARP_TOLERANCE": 4,
+  "HIR_CUTOFF": 3,
+  "FIR_CUTOFF": 1.0,
+  "FIR_TABLES": true,
+  "SCALE_ON": true,
+  "SHOW_TIMES": true,
+  "SHOW_MATCH_PAIR_PROGRESS": true,
+  "MM_DIST": 500,
+  "HIR_SNP_MIN": 100,
+  "FIR_SNP_MIN": 75,
+  "NO_CALL": "X",
+  "LINUX_FONT_STRING": "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+}
